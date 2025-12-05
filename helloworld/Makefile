@@ -7,6 +7,7 @@ help:
 	@echo '   make help                           show help                          '
 	@echo '                                                                          '
 	@echo '   make build                          build                              '
+	@echo '   make run                            run                              '
 	@echo '                                                                          '
 	@echo '                                                                          '
 
